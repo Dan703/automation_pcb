@@ -35,7 +35,7 @@ Written in Arduino-flavored C++, flashed via ISP (no bootloader USB connection o
 
 ## Status
 
-🚧 **In progress.** Board is currently fully soldered and does function as expected! LDR value calibration and current sensor firmware are being currently tested. Videos/demos of final product will be posted soon as well. (see png files for 
+🚧 **In progress.** Board is currently fully soldered and does function as expected! LDR value calibration and current sensor firmware are being currently tested. Videos/demos of final product will be posted soon as well. (see png files for pictures)
 
 ## Possible extensions
 
