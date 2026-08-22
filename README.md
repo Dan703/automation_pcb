@@ -17,7 +17,7 @@ Designed from schematic to fabrication-ready Gerbers in KiCad, built around a ba
 - **Power:** 9V barrel jack input, L7805 linear regulator to 5V
 - **Light sensing:** LDR + 10kΩ divider into ADC0
 - **Current sensing:** SCT-013-000 clamp, biased divider + burden resistor into ADC1
-- **IR transmitter:** TSAL6400 IR LED, 2N2219A PBFREE NPN driver transistor
+- **IR transmitter:** TSAL6200 IR LED, 2N2219A PBFREE NPN driver transistor
 - **Status LED:** simple GPIO-driven indicator
 
 ## Firmware
